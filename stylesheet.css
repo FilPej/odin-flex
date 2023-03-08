@@ -1,0 +1,143 @@
+.des_header{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+}
+.des_header_text{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    flex: 1;
+}
+.nav{
+    display: flex;
+    
+    justify-content: space-between;
+   
+    
+
+}
+.r_nav{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.header{
+    background-color: #1f2937;
+    padding: 20px 80px;
+    margin-bottom: 40px;
+}
+.awesome{
+    font-size: 48px;
+    color: #f9f2f8;
+    font-weight: bold;
+    padding: 10px;
+    margin-bottom: 0px;
+}
+.sec_t{
+    font-size: 18px;
+    color: #e5e7eb;
+    padding: 10px;
+    margin: 0px;
+
+
+}
+.log_t{
+    color:#f9faf8 ;
+    font-size: 24px;
+    padding: 10px;
+    margin: 0px;
+}
+body{
+    margin: 0px;
+    
+}
+button{
+    background-color: #3882f6;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    border-radius: 5px;
+    padding: 5px 25px;
+
+}
+img{max-width: 100%;
+    height: auto;
+}
+.combo{
+    width: 200px;
+}
+.body1, .body2{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.if{    
+    font-weight:900;
+    color: #1f2937;
+    font-size: 36px;
+}
+.cluster{
+    display: flex;
+    gap: 30px;
+flex-wrap: wrap;}
+.body2{
+    background-color: #e5e7eb;
+    padding: 30px 80px;
+}
+.quote{
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+}
+.author{
+    font-size: 24px;
+    font-weight: bold;  
+    
+}
+.author_al{
+    display: flex;
+    
+    align-self: flex-end;
+}
+.body3{display: flex;
+padding: 90px;
+justify-content: center;
+align-content: center;}
+.bubble{
+    background-color: #3882f6;
+    display: flex;
+    padding: 40px 80px;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 20px;
+    gap: 20px;
+}
+.action{
+    color: white;
+    font-size: 24px;
+    margin: 5px;
+}
+.action2{
+    color: white;
+    font-size: 16px;
+    margin: 0px;
+
+}
+.button.align{
+    display: flex;
+    justify-content: center;
+    align-self: center;
+   
+}
+.b{
+    align-self: center;
+}
+.footer{
+    background-color: #1f2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
